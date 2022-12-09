@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Saira:wght@400;800;900&display=swap');
+
+*{
+    /* font-family: 'Saira', sans-serif; */
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    font-style: normal;
+}
+.title{
+    font-family: 'Saira', sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 44px;
+    line-height: 48px;
+    letter-spacing: -.5px;
+}
+ h1{
+    font-family: Saira;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 44px;
+    line-height: 48px;
+    text-align: center;
+    letter-spacing: -0.5px; 
+}
+select{
+    height: 40px;
+    width: 212px;
+    font-family: noto-sans;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+}
+button{
+    height: 40px;
+    width: 128px;
+    font-family: noto-sans;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    background: #009DD1;
+    color: #ffffff;
+}
